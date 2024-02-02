@@ -20,5 +20,5 @@ Links and further reading for our EY presentation about onchain points, reputati
 - Alternative: Disco.xyz (Verified Credentials) 
 
 # AI Vision
- - https://openai.com/research/gpt-4v-system-card
+ - OpenAI description of GPT4-Vision: https://openai.com/research/gpt-4v-system-card (linked abstract: https://cdn.openai.com/papers/GPTV_System_Card.pdf)
  - Open-source Llava model released Jan 31st: https://llava-vl.github.io/ 
