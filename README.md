@@ -10,6 +10,7 @@ Links and further reading for our EY presentation about onchain points, reputati
 - Kith last week started a loyalty program with (hidden) onchain points. Great analysis: https://x.com/AlexaKilroy/status/1750542717950566848?s=20
 - Rainbow Wallet: https://rainbow.me/points
 - Blur NFT marketplace Points: https://thegreatarbitrageur.medium.com/how-blur-enhances-nfts-liquidity-through-airdrop-events-a-case-study-of-season-2-b5a3371c1f31
+- Bankless episode on Points: https://www.youtube.com/watch?v=B_i4_6A796
 - VC analysis: https://coopahtroopa.mirror.xyz/qiI_z3Ye4iCvMQm5SIGdzrE7d980CpaB5bjoHGpH5jk
 
 # Attestations
