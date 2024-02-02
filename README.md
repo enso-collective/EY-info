@@ -5,6 +5,7 @@ Links and further reading for our EY presentation about onchain points, reputati
 - https://variant.fund/articles/headless-marketplaces-wallets/
 - Farcaster stats: https://dune.com/pixelhack/farcaster
 - Lens Protocol - insight from Phaver: https://github.com/lens-protocol/LIPs/pull/29#issuecomment-1922316144
+- VC opinion on Farcaster: https://warpcast.com/ash/0x68f0f586
 
 # Points
 - Kith last week started a loyalty program with (hidden) onchain points. Great analysis: https://x.com/AlexaKilroy/status/1750542717950566848?s=20
