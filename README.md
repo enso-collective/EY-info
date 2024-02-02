@@ -8,8 +8,8 @@ Links and further reading for our EY presentation about onchain points, reputati
 
 # Points
 - Kith last week started a loyalty program with (hidden) onchain points. Great analysis: https://x.com/AlexaKilroy/status/1750542717950566848?s=20
-- https://coopahtroopa.mirror.xyz/qiI_z3Ye4iCvMQm5SIGdzrE7d980CpaB5bjoHGpH5jk
-
+- Rainbow Wallet: https://rainbow.me/points
+- VC analysis: https://coopahtroopa.mirror.xyz/qiI_z3Ye4iCvMQm5SIGdzrE7d980CpaB5bjoHGpH5jk
 
 # Attestations
 - Ethereum Attestation Service: https://attest.sh/
@@ -17,7 +17,6 @@ Links and further reading for our EY presentation about onchain points, reputati
 - Coinbase Verifications using EAS: https://www.coinbase.com/onchain-verify (with code https://github.com/coinbase/verifications)
 - Bankless Interview: https://www.youtube.com/watch?v=RsIBqExwsT8
 - Alternative: Disco.xyz (Verified Credentials) 
-
 
 # AI Vision
  - https://openai.com/research/gpt-4v-system-card
